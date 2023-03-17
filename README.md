@@ -5,7 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ✔ I'm Web Developer
 -------------------
 
-I've been learning to code 3 month. Started learning with html and sss. I'm currently learning how to make websites. I love to swim 🏊‍♀️
+🏆 I've been learning to code 3 month. 
+🔧 Started learning with html and sss. 
+📓 I'm currently learning how to make websites. 
+❤ I love to swim 🏊‍♀️
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [gosha.yavkin@gmail.com](mailto: gosha.yavkin@gmail.com)
