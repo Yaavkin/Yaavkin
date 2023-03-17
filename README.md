@@ -11,8 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p>❤ I love to swim 🏊‍♀️</p>
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [gosha.yavkin@gmail.com](mailto: gosha.yavkin@gmail.com)
-
+* ✉️  You can contact me at gosha.yavkin@gmail.com
 ### Skills
 
 
